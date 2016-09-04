@@ -135,7 +135,7 @@
                                     <action selector="tapped3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Gc9-OZ-ELa"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dht-LG-QjF">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dht-LG-QjF">
                                 <rect key="frame" x="304" y="466.5" width="140" height="125.5"/>
                                 <color key="backgroundColor" red="0.60000002379999995" green="0.60000002379999995" blue="0.60000002379999995" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="42"/>
@@ -147,7 +147,7 @@
                                     <action selector="tappedClear:" destination="BYZ-38-t0r" eventType="touchUpInside" id="di2-uD-H4h"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mwv-fa-4ze">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mwv-fa-4ze">
                                 <rect key="frame" x="452" y="466.5" width="140" height="125.5"/>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="42"/>
@@ -183,7 +183,7 @@
                                     <action selector="tappedMultiply:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Sw3-If-e5l"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OQ2-bI-6o6">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OQ2-bI-6o6">
                                 <rect key="frame" x="8" y="466" width="288" height="125.5"/>
                                 <color key="backgroundColor" red="0.80000001190000003" green="0.80000001190000003" blue="0.80000001190000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="42"/>
@@ -209,7 +209,6 @@
                             <constraint firstItem="679-RV-mrT" firstAttribute="top" secondItem="Ifa-fe-iKE" secondAttribute="bottom" constant="8" id="D3g-kR-ixf"/>
                             <constraint firstItem="kCS-ww-Ykn" firstAttribute="top" secondItem="om9-if-ROp" secondAttribute="bottom" constant="8" id="D9N-KS-Fu6"/>
                             <constraint firstAttribute="trailing" secondItem="5f8-kc-dUK" secondAttribute="trailing" constant="20" id="En8-zJ-x00"/>
-                            <constraint firstItem="OQ2-bI-6o6" firstAttribute="width" secondItem="LNu-hM-sfn" secondAttribute="width" id="FRo-1p-i1a"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="OQ2-bI-6o6" secondAttribute="bottom" constant="8" id="FoK-hr-qWD"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="mwv-fa-4ze" secondAttribute="bottom" constant="8" id="GGN-Iy-hZl"/>
                             <constraint firstItem="mwv-fa-4ze" firstAttribute="top" secondItem="kAB-V6-I2m" secondAttribute="bottom" constant="8" id="I7C-4s-hgu"/>
